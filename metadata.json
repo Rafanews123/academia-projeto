@@ -1,0 +1,8 @@
+{
+  "name": "MEU TREINO PRO",
+  "description": "Aplicativo profissional de musculação e treinamento físico com rotinas avançadas, biblioteca de exercícios, controle de cargas e evolução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
